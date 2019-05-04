@@ -1,0 +1,13 @@
+.Add-Button {
+    background-color: #9FD356;
+    border-radius: 12px;
+    font-size: 16px;
+    padding: 4px 24px;
+}
+
+.Sub-Button {
+    background-color: #FA824C;
+    border-radius: 12px;
+    font-size: 16px;
+    padding: 4px 24px;
+}
